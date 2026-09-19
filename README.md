@@ -105,47 +105,14 @@
 
 ---
 
-## 📊 GitHub Analytics
 
 
 
-<div align="center">
 
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Arunsaraswat-bit&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;icon_color=00d4ff&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true" />
-  &nbsp;
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsaraswat-bit&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;text_color=c9d1d9&amp;langs_count=8" />
-
-</div>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Arunsaraswat-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6e96&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" width="65%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunsaraswat-bit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true" width="97%" />
-
-</div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Arunsaraswat-bit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunsaraswat-bit/Arunsaraswat-bit/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arunsaraswat-bit/Arunsaraswat-bit/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Arunsaraswat-bit/Arunsaraswat-bit/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-</div>
 
 <details>
 <summary>⚙️ <b>How to enable the Snake animation</b></summary>
