@@ -1,173 +1,123 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════ HEADER ══════════════════════════════════════════════ -->
+<!-- ██████████████████████  ANIMATED HEADER  ██████████████████████ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=240&section=header&text=Arun%20Saraswat&fontSize=68&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Engineering%20the%20digital%20%26%20physical%20world&descSize=20&descAlignY=60&descAlign=50&descColor=a9b1d6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:06010a,30:0d0221,60:0a192f,100:00F0FF&height=300&section=header&text=ARUN%20SARASWAT&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&stroke=00F0FF&strokeWidth=2&desc=⚡%20Embedded%20Systems%20·%20Full%20Stack%20·%20Automation%20·%20ML%20⚡&descSize=18&descAlignY=68&descAlign=50&descColor=a9b1d6" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&width=700&height=52&lines=IT+Diploma+Scholar+%F0%9F%8E%93;IoT+%26+Embedded+Systems+Enthusiast+%F0%9F%94%8C;Full+Stack+%26+Automation+Developer+%F0%9F%9A%80;ML+%7C+Data+Science+%7C+API+Craftsman+%F0%9F%A7%A0" alt="Typing SVG" />
-</a>
+<!-- ██████████████████████  ANIMATED TYPING  ██████████████████████ -->
 
 <br/>
 
-<!-- Profile View Counter -->
-<img src="https://komarev.com/ghpvc/?username=arunsaraswat&color=00F0FF&style=flat-square&label=👁️+Profile+Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/arunsaraswat?label=Followers&style=flat-square&color=00F0FF&labelColor=0d1117" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════ ABOUT ══════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `$ whoami`
-
-</div>
-
-```yaml
-┌──────────────────────────────────────────────────────────────┐
-│  👤  Name        : Arun Saraswat                             │
-│  🎓  Education   : Diploma in Information Technology         │
-│  📍  Focus Areas : Automation · IoT · Full Stack · ML/DS     │
-│  ⚡  Currently   : Building smart automation pipelines       │
-│                   with ESP32 + REST APIs + Python            │
-│  🧩  Hobbies     : DSA grinding · Game Dev · Tinkering HW   │
-│  💡  Fun Fact    : I debug hardware & software with          │
-│                   equal parts logic and chaos                │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════ TECH STACK ══════════════════════════════════════════════ -->
-
-<div align="center">
-
-### ⚡ Tech Stack & Tools
-
-</div>
-
-<details open>
-<summary><b>🔤 Languages</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark&perline=7" />
-</p>
-</details>
-
-<details open>
-<summary><b>🌐 Web, Backend & Frameworks</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,mongodb&theme=dark&perline=7" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🔩 Hardware & Embedded Systems</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/IoT-302b63?style=for-the-badge&logo=internetofthings&logoColor=00F0FF" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/UART%20%7C%20I2C%20%7C%20SPI-0f0c29?style=for-the-badge&logo=circuitverse&logoColor=00F0FF" />
-</p>
-</details>
-
-<details open>
-<summary><b>🛠️ IDEs, Tools & Environments</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,arduino,eclipse,anaconda,pycharm&theme=dark&perline=7" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-</details>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════ INTERESTS ══════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🧠 Areas of Interest
-
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-Automation-302b63?style=flat-square&logo=zapier&logoColor=00F0FF"/><br/>
-      <sub><b>Automation</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-DSA-302b63?style=flat-square&logo=thealgorithms&logoColor=00F0FF"/><br/>
-      <sub><b>DSA</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-Machine%20Learning-302b63?style=flat-square&logo=tensorflow&logoColor=00F0FF"/><br/>
-      <sub><b>Machine Learning</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-Data%20Science-302b63?style=flat-square&logo=pandas&logoColor=00F0FF"/><br/>
-      <sub><b>Data Science</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-IoT-302b63?style=flat-square&logo=mqtt&logoColor=00F0FF"/><br/>
-      <sub><b>IoT</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-Embedded-302b63?style=flat-square&logo=arm&logoColor=00F0FF"/><br/>
-      <sub><b>Embedded Systems</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/-API%20Dev-302b63?style=flat-square&logo=fastapi&logoColor=00F0FF"/><br/>
-      <sub><b>API Development</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════ GITHUB STATS ══════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📊 GitHub Analytics Dashboard
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arunsaraswat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=a9b1d6&ring_color=00F0FF&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsaraswat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=a9b1d6&langs_count=8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=750&height=60&lines=🎓+IT+Diploma+Scholar;🔌+IoT+%26+Embedded+Systems+Engineer;🚀+Full+Stack+%26+Automation+Developer;🧠+Machine+Learning+%26+Data+Science;⚡+C+%7C+Python+%7C+Java+%7C+ESP32+%7C+Arduino" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsaraswat&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=ff6e96&currStreakLabel=00F0FF&sideLabels=a9b1d6&dates=a9b1d6&stroke=302b63" width="60%" />
+<!-- ██████████████████████  BADGES ROW  ██████████████████████ -->
+
+<img src="https://komarev.com/ghpvc/?username=Arunsaraswat-bit&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Arunsaraswat-bit?style=for-the-badge&color=00F0FF&labelColor=0d1117&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-00F0FF?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+</div>
+
+---
+
+<!-- ██████████████████████  ABOUT ME  ██████████████████████ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0015,100:0a192f&height=60&text=◈%20WHO%20AM%20I%20◈&fontSize=28&fontColor=00F0FF&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
+
+</div>
+
+<br/>
+
+<table align="center" width="95%">
+<tr>
+<td align="left" width="55%">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=400&color=00F0FF&multiline=true&width=480&height=220&lines=👤+Name+++++++:+Arun+Saraswat;🎓+Education++:+Diploma+in+IT;📍+Based+in++++:+India;⚡+Currently+++:+Building+IoT+%2B+API+Pipelines;🔭+Exploring+++:+ML+%7C+Data+Science+%7C+Embedded;🧩+Hobbies++++:+DSA+%7C+Game+Dev+%7C+HW+Tinkering;🤝+Looking+for+:+Open+Source+Collabs;💡+Fun+Fact+++:+I+debug+hw+%26+sw+simultaneously" />
+
+</td>
+<td align="center" width="45%">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0015,50:0d0221,100:0a192f&height=220&text=⚡%20ARUN%20⚡&fontSize=38&fontColor=00F0FF&animation=blinking&fontAlignY=55&desc=Builder+%7C+Maker+%7C+Coder&descSize=16&descColor=a9b1d6&descAlignY=78" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ██████████████████████  TECH STACK  ██████████████████████ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0015,100:0a192f&height=60&text=◈%20TECH%20STACK%20%26%20TOOLS%20◈&fontSize=26&fontColor=00F0FF&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
+
+<br/><br/>
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/─────────────%20LANGUAGES%20─────────────-0a0015?style=for-the-badge&labelColor=0a0015&color=0a0015" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark&perline=8" />
+
+<br/><br/>
+
+<!-- Web & Frameworks -->
+<img src="https://img.shields.io/badge/───────────%20WEB%20%26%20BACKEND%20───────────-0a0015?style=for-the-badge&labelColor=0a0015&color=0a0015" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,mongodb&theme=dark&perline=8" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+
+<br/><br/>
+
+<!-- Embedded & Hardware -->
+<img src="https://img.shields.io/badge/──────────%20EMBEDDED%20%26%20HARDWARE%20──────────-0a0015?style=for-the-badge&labelColor=0a0015&color=0a0015" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/IoT-302b63?style=for-the-badge&logo=mqtt&logoColor=00F0FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/UART%20%7C%20I2C%20%7C%20SPI-0a0015?style=for-the-badge&logo=arm&logoColor=00F0FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+<br/><br/>
+
+<!-- Tools & IDEs -->
+<img src="https://img.shields.io/badge/──────────────%20TOOLS%20%26%20IDEs%20──────────────-0a0015?style=for-the-badge&labelColor=0a0015&color=0a0015" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,arduino,eclipse,anaconda,pycharm,git,github&theme=dark&perline=8" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 </div>
 
@@ -175,13 +125,31 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════ ACTIVITY GRAPH ══════════════════════════════════════════════ -->
+<!-- ██████████████████████  INTERESTS  ██████████████████████ -->
 
 <div align="center">
 
-### 📈 Contribution Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0015,100:0a192f&height=60&text=◈%20AREAS%20OF%20INTEREST%20◈&fontSize=26&fontColor=00F0FF&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunsaraswat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=302b63&point=00F0FF&area=true&area_color=302b63" width="100%" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡%20Automation-00F0FF?style=for-the-badge&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/🧠%20DSA-7c3aed?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/🤖%20Machine%20Learning-FF6B35?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/📊%20Data%20Science-22c55e?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔌%20IoT-E7352C?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/💾%20Embedded%20Systems-00979D?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/🌐%20API%20Development-f59e0b?style=for-the-badge&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/🎮%20Game%20Dev-ec4899?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -189,13 +157,21 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════ TROPHIES ══════════════════════════════════════════════ -->
+<!-- ██████████████████████  GITHUB STATS DASHBOARD  ██████████████████████ -->
 
 <div align="center">
 
-### 🏆 Achievement Trophies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0015,100:0a192f&height=60&text=◈%20GITHUB%20ANALYTICS%20◈&fontSize=26&fontColor=00F0FF&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arunsaraswat&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" />
+<br/><br/>
+
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Arunsaraswat-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06010a&title_color=00F0FF&icon_color=00F0FF&text_color=a9b1d6&ring_color=00F0FF&count_private=true&include_all_commits=true&border_radius=12" />
+&nbsp;&nbsp;
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsaraswat-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=06010a&title_color=00F0FF&text_color=a9b1d6&langs_count=8&border_radius=12" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunsaraswat-bit&theme=tokyonight&hide_border=true&background=06010a&ring=00F0FF&fire=ff6e96&currStreakLabel=00F0FF&sideLabels=a9b1d6&dates=a9b1d6&stroke=0a192f&border_radius=12" width="65%" />
 
 </div>
 
@@ -203,34 +179,96 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════ SNAKE ══════════════════════════════════════════════ -->
+<!-- ██████████████████████  ACTIVITY GRAPH  ██████████████████████ -->
 
 <div align="center">
 
-### 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0015,100:0a192f&height=60&text=◈%20CONTRIBUTION%20ACTIVITY%20◈&fontSize=26&fontColor=00F0FF&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunsaraswat-bit&theme=tokyo-night&hide_border=true&bg_color=06010a&color=00F0FF&line=7c3aed&point=00F0FF&area=true&area_color=0a192f&radius=8" width="97%" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ██████████████████████  TROPHIES  ██████████████████████ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0015,100:0a192f&height=60&text=◈%20ACHIEVEMENT%20TROPHIES%20◈&fontSize=26&fontColor=00F0FF&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arunsaraswat-bit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ██████████████████████  SNAKE ANIMATION  ██████████████████████ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0015,100:0a192f&height=60&text=◈%20CONTRIBUTION%20SNAKE%20◈&fontSize=26&fontColor=00F0FF&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
+
+<br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arunsaraswat/arunsaraswat/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arunsaraswat/arunsaraswat/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/arunsaraswat/arunsaraswat/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arunsaraswat-bit/Arunsaraswat-bit/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arunsaraswat-bit/Arunsaraswat-bit/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Arunsaraswat-bit/Arunsaraswat-bit/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
+<details>
+<summary>🐍 <b>Enable Snake Animation — click to expand</b></summary>
 <br/>
 
-> 💡 **To enable the snake animation**, add this GitHub Action to your profile repo:  
-> `.github/workflows/snake.yml` — [generate_snake.yml](https://github.com/Platane/snk)
+Create `.github/workflows/snake.yml` in your profile repo with:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 <br/>
 
 ---
 
-<!-- ══════════════════════════════════════════════ QUOTE ══════════════════════════════════════════════ -->
+<!-- ██████████████████████  DEV QUOTE  ██████████████████████ -->
 
 <div align="center">
-
-### 💬 Dev Philosophy
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
@@ -240,48 +278,44 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════ CONNECT ══════════════════════════════════════════════ -->
+<!-- ██████████████████████  CONNECT  ██████████████████████ -->
 
 <div align="center">
 
-### 🌐 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0015,100:0a192f&height=60&text=◈%20CONNECT%20WITH%20ME%20◈&fontSize=26&fontColor=00F0FF&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://twitter.com/your-twitter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://twitter.com/your-twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:your-email@gmail.com" target="_blank">
+<a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://instagram.com/your-instagram" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+<a href="https://instagram.com/your-instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://your-portfolio.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23302b63.svg?style=for-the-badge&logo=vercel&logoColor=00F0FF" />
+<a href="https://your-portfolio.dev">
+  <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
 <br/><br/>
 
-<i>⚡ Open to collaborations on IoT, Automation, Full Stack, and ML projects ⚡</i>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=a9b1d6&center=true&vCenter=true&width=600&lines=⚡+Open+to+Collabs+on+IoT+%7C+Automation+%7C+Full+Stack+%7C+ML+⚡;🚀+Let's+build+something+awesome+together!;🔌+Hardware+meets+Software+meets+Intelligence" />
 
-<br/>
+<br/><br/>
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&animation=fadeIn&fontColor=00F0FF" />
+<!-- ██████████████████████  FOOTER  ██████████████████████ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d0221,100:06010a&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00F0FF&animation=fadeIn&fontAlignY=65&desc=⭐%20Star%20a%20repo%20if%20you%20find%20it%20useful!&descSize=14&descColor=a9b1d6&descAlignY=85" />
 
 </div>
 
-<!--
-  ╔══════════════════════════════════════════════╗
-  ║       README by Arun Saraswat               ║
-  ║       Powered by GitHub README utilities    ║
-  ╚══════════════════════════════════════════════╝
--->
+<!-- Built with ❤️ by Arun Saraswat -->
