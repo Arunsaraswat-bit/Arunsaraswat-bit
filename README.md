@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00b4d8&height=250&section=header&text=Arun%20Saraswat&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Embedded%20%7C%20IoT%20%7C%20Full%20Stack%20%7C%20Automation%20%7C%20ML&descSize=19&descAlignY=62&descColor=c9d1d9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:121212,75:22252a,100:3a3f47&height=250&section=header&text=Arun%20Saraswat&fontSize=75&fontAlignY=40&fontColor=ffffff&customFont=Creepster&animation=fadeIn&desc=Embedded%20%7C%20IoT%20%7C%20Full%20Stack%20%7C%20Automation%20%7C%20ML&descSize=19&descAlignY=62&descColor=8b949e" />
 
 <!-- TYPING SVG — demolab is GitHub-whitelisted -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=🎓+IT+Diploma+Scholar;🔌+IoT+%26+Embedded+Systems+Engineer;🚀+Full+Stack+%26+Automation+Developer;🧠+Machine+Learning+%26+Data+Science+Explorer;⚡+C+%7C+Python+%7C+Java+%7C+ESP32+%7C+Arduino" />
@@ -23,7 +23,6 @@
 
 <img align="right" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,100:00b4d8&height=180&text=⚡%20ARUN%20⚡&fontSize=30&fontColor=00d4ff&animation=fadeIn&desc=Builder%20%7C%20Maker%20%7C%20Coder&descSize=14&descColor=c9d1d9&descAlignY=75&fontAlignY=45" width="38%" />
 
-## 👾 About Me
 
 > ### ⚡ 𝐴𝑟𝑢𝑛 𝑆𝑎𝑟𝑎𝑠𝑤𝑎𝑡
 > *❝ 𝑇𝑟𝑎𝑛𝑠𝑙𝑎𝑡𝑖𝑛𝑔 𝑖𝑑𝑒𝑎𝑠 𝑖𝑛𝑡𝑜 𝑐𝑜𝑑𝑒, 𝑎𝑛𝑑 𝑐𝑜𝑑𝑒 𝑖𝑛𝑡𝑜 𝑝ℎ𝑦𝑠𝑖𝑐𝑎𝑙 𝑎𝑐𝑡𝑖𝑜𝑛. ❞*
