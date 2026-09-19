@@ -23,18 +23,19 @@
 
 <img align="right" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,100:00b4d8&height=180&text=⚡%20ARUN%20⚡&fontSize=30&fontColor=00d4ff&animation=fadeIn&desc=Builder%20%7C%20Maker%20%7C%20Coder&descSize=14&descColor=c9d1d9&descAlignY=75&fontAlignY=45" width="38%" />
 
-```yaml
-Name        : Arun Saraswat
-Education   : Diploma in Information Technology
-Location    : India 🇮🇳
-Currently   : Building IoT + REST API Pipelines
-Exploring   : ML | Data Science | Embedded AI
-Core Skills : C | Python | Java | JS | ESP32
-Hobbies     : DSA | Game Dev | Hardware Tinkering
-Collab      : Open Source & Project Collabs ✅
-Fun Fact    : I debug hardware & software with
-              equal parts logic and caffeine ☕
-```
+## 👾 About Me
+
+> ### ⚡ 𝐴𝑟𝑢𝑛 𝑆𝑎𝑟𝑎𝑠𝑤𝑎𝑡
+> *❝ 𝑇𝑟𝑎𝑛𝑠𝑙𝑎𝑡𝑖𝑛𝑔 𝑖𝑑𝑒𝑎𝑠 𝑖𝑛𝑡𝑜 𝑐𝑜𝑑𝑒, 𝑎𝑛𝑑 𝑐𝑜𝑑𝑒 𝑖𝑛𝑡𝑜 𝑝ℎ𝑦𝑠𝑖𝑐𝑎𝑙 𝑎𝑐𝑡𝑖𝑜𝑛. ❞*
+> 
+> ---
+> 
+> * **Identity:** Information Technology Scholar & Systems Tinkerer
+> * **The Core:** Writing deterministic logic in `C` & `Python`, architecting web layers with `JS` & `React`, and connecting hardware through `ESP32`
+> * **The Mission:** Exploring where IoT telemetry converges with Machine Learning pipelines
+> * **Philosophy:** Debug with equal parts disciplined logic and hot caffeine ☕
+> 
+> *Always keen to link up on ambitious open-source builds and embedded hacks.*
 
 <br clear="right"/>
 
