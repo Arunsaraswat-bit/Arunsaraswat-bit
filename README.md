@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:121212,75:22252a,100:3a3f47&height=250&section=header&text=Arun%20Saraswat&fontSize=75&fontAlignY=40&fontColor=ffffff&customFont=Creepster&animation=fadeIn&desc=Embedded%20%7C%20IoT%20%7C%20Full%20Stack%20%7C%20Automation%20%7C%20ML&descSize=19&descAlignY=62&descColor=8b949e" />
 
 <!-- TYPING SVG — demolab is GitHub-whitelisted -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=🎓+IT+Diploma+Scholar;🔌+IoT+%26+Embedded+Systems+Engineer;🚀+Full+Stack+%26+Automation+Developer;🧠+Machine+Learning+%26+Data+Science+Explorer;⚡+C+%7C+Python+%7C+Java+%7C+ESP32+%7C+Arduino" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%8E%93+IT+Diploma+Scholar;%F0%9F%94%8C+IoT+%26+Embedded+Systems+Engineer;%F0%9F%9A%80+Full+Stack+%26+Automation+Developer;%F0%9F%A7%A0+Machine+Learning+%26+Data+Science+Explorer;%E2%9A%A1+C+%7C+Python+%7C+Java+%7C+ESP32+%7C+Arduino" />
 
 <br/>
 
