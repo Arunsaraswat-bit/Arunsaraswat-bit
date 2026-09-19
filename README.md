@@ -107,11 +107,15 @@
 
 ## 📊 GitHub Analytics
 
+
+
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Arunsaraswat-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsaraswat-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Arunsaraswat-bit&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;icon_color=00d4ff&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true" />
+  &nbsp;
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsaraswat-bit&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;text_color=c9d1d9&amp;langs_count=8" />
+
+</div>
 
 <br/><br/>
 
