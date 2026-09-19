@@ -21,20 +21,28 @@
 
 ## 👾 About Me
 
-<img align="right" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,100:00b4d8&height=180&text=⚡%20ARUN%20⚡&fontSize=30&fontColor=00d4ff&animation=fadeIn&desc=Builder%20%7C%20Maker%20%7C%20Coder&descSize=14&descColor=c9d1d9&descAlignY=75&fontAlignY=45" width="38%" />
 
 
-> ### ⚡ 𝐴𝑟𝑢𝑛 𝑆𝑎𝑟𝑎𝑠𝑤𝑎𝑡
-> *❝ 𝑇𝑟𝑎𝑛𝑠𝑙𝑎𝑡𝑖𝑛𝑔 𝑖𝑑𝑒𝑎𝑠 𝑖𝑛𝑡𝑜 𝑐𝑜𝑑𝑒, 𝑎𝑛𝑑 𝑐𝑜𝑑𝑒 𝑖𝑛𝑡𝑜 𝑝ℎ𝑦𝑠𝑖𝑐𝑎𝑙 𝑎𝑐𝑡𝑖𝑜𝑛. ❞*
-> 
-> ---
-> 
-> * **Identity:** Information Technology Scholar & Systems Tinkerer
-> * **The Core:** Writing deterministic logic in `C` & `Python`, architecting web layers with `JS` & `React`, and connecting hardware through `ESP32`
-> * **The Mission:** Exploring where IoT telemetry converges with Machine Learning pipelines
-> * **Philosophy:** Debug with equal parts disciplined logic and hot caffeine ☕
-> 
-> *Always keen to link up on ambitious open-source builds and embedded hacks.*
+
+---
+## 👾 About Me
+
+<div align="left">
+  <table style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+    <tr>
+      <td>
+        <h3>⚡ <span style="color: #58a6ff;">Arun Saraswat</span></h3>
+        <p><em>❝ Translating ideas into code, and code into physical action. ❞</em></p>
+        <hr style="border: 0; height: 1px; background: #30363d; margin: 12px 0;">
+        <p><b>🎓 Identity:</b> Information Technology Scholar & Systems Tinkerer</p>
+        <p><b>💻 The Core:</b> Writing deterministic logic in <code>C</code> & <code>Python</code>, architecting web layers with <code>JS</code> & <code>React</code>, and connecting hardware through <code>ESP32</code></p>
+        <p><b>🚀 The Mission:</b> Exploring where IoT telemetry converges with Machine Learning pipelines</p>
+        <p><b>☕ Philosophy:</b> Debug with equal parts disciplined logic and hot caffeine</p>
+        <p><em>✨ Always keen to link up on ambitious open-source builds and embedded hacks.</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br clear="right"/>
 
