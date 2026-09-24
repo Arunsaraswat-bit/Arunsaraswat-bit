@@ -60,10 +60,8 @@
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### 🔩 Hardware & Embedded
@@ -78,7 +76,6 @@
 ### 🧰 IDEs & Tools
 <p>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
@@ -99,7 +96,7 @@
 <img src="https://img.shields.io/badge/📊 Data Science-22c55e?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🔌 IoT-E7352C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/💾 Embedded Systems-00979D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌐 API Development-f59e0b?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/🎮 Game Dev-ec4899?style=for-the-badge"/>
 </p>
 
@@ -143,28 +140,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 </details>
-name: Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
----
 
 ## 💬 Quote
 
